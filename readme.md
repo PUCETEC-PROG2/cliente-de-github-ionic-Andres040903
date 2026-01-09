@@ -3,8 +3,8 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
+- **Nombre:** Edgar Andres Caillagua Jimenez
+- **Carrera:** Desarrollo de Software
 - **Fecha de inicio:** [Fecha]
 
 ---
